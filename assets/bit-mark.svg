@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">BIT</title>
+  <path d="M32 2 62 32 32 62 2 32Z" fill="#fff" stroke="#173b67" stroke-width="2.4"/>
+  <path d="M32 7 53 28 32 49 11 28Z" fill="#173b67"/>
+  <path d="m11 28 10-10 11 14-11 11Z" fill="#c49645"/>
+  <path d="m53 28-10-10-11 14 11 11Z" fill="#2b5e93"/>
+  <path d="m32 57-11-14 11-11 11 11Z" fill="#c49645"/>
+  <path d="M17 27h30v12H17z" fill="#fff" stroke="#173b67" stroke-width="1"/>
+  <text x="32" y="36" fill="#173b67" font-family="Arial, sans-serif" font-size="9" font-weight="700" text-anchor="middle">BIT</text>
+</svg>
